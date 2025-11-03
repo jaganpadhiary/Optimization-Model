@@ -101,3 +101,5 @@ Resource allocation and scheduling
 Supply chain optimization
 
 Transportation and logistics planning
+
+<img width="902" height="359" alt="Image" src="https://github.com/user-attachments/assets/2f56890e-6bc3-4500-859e-dba92e31e752" />
