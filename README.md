@@ -8,6 +8,8 @@
 *DOMAIN* : DATA SCIENCE
 
 *DURATION* : 4 WEEKS
+
+*MENTOR* : NEELA SANTOSH KUMAR
 # Optimization Model using Linear Programming
 
 This project demonstrates how to use **Linear Programming (LP)** to solve an **optimization problem** for maximizing profit in a factory production scenario.  
